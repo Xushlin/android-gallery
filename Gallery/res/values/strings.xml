@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">图片浏览器</string>
-    <string name="nosdcard_title">温馨提示</string>
-    <string name="nosdcard_msg">你的sd卡不可用！</string>
-    <string name="nosdcard_btn">关闭</string>
-    <string name="loader">正在加载中...</string>
-</resources>
